@@ -22,3 +22,5 @@
 4. Fourth item
 
 
+## Functionalities in scope
+
