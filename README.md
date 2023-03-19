@@ -40,3 +40,9 @@
 - Automation testing is beyond scope.
 
 Here are the link test cases [Test cases details](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/OIP.jpeg)
+
+#### Entry criteria:
+    
+- functional specifications defined
+- roles needed for the project are allocated
+- initial project risks were detected and mitigated
