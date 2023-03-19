@@ -1,4 +1,4 @@
-# Proiect
+# <h1 align="center">Proiect Practic Testare Manuala<h1>
 # OrangeHRM Project
 ## Test Plan
 
@@ -38,3 +38,5 @@
 - Non-functional testing like stress, performance is beyond scope of this project.
 - No QA support for mobile application developed. Only web application will be tested.
 - Automation testing is beyond scope.
+
+Here are the link test cases [Test cases details](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/OIP.jpeg)
