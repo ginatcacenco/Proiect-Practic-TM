@@ -46,3 +46,8 @@ Here are the link test cases [Test cases details](https://github.com/ginatcacenc
 - functional specifications defined
 - roles needed for the project are allocated
 - initial project risks were detected and mitigated
+
+
+
+
+![foto](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/OIP.jpeg)
