@@ -51,3 +51,6 @@ Here are the link test cases [Test cases details](https://github.com/ginatcacenc
 
 
 ![foto](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/OIP.jpeg)
+
+
+Link catre fisier [Test cases for user story x](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/TES-8.pdf)
