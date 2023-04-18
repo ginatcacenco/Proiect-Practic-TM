@@ -10,12 +10,12 @@
 | ***18.03.2023*** | v1.1| Ioana Popescu | ***Test results for functional testing*** |
 | 25.03.2023 | v1.2| Maria Popescu | Test results for admin functional testing |
 
-1. Introduction
+# 1. Introduction
     
 This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser
 application. 
 
-1.1 Project objective
+## 1.1 Project objective
     
 The scope of the final project for ITF Manual & Automation Testing Course is to use all gained knowledge through the course and apply them in practice using a live
 application. 
@@ -26,14 +26,14 @@ Application documentation: <ins>https://www.orangehrm.com/assets/Files/Complete-
 
 Tools: Jira, Postman, MySql
     
-1.2 Functionalities in scope
+## 1.2 Functionalities in scope
     
-All features of Admin module which were defined in software requirement specs need to be: functional testing, GUI testing, API testing  
+All features of Emergency Contacts module which were defined in software requirement specs need to be: functional testing, GUI testing, API testing  
    
 
 ## 1.3 Functionalities and tests out of scope
 
-- All OrangeHRM features except Admin module
+- All OrangeHRM features except Emergency Contacts module.
 - Non-functional testing like stress, performance is beyond scope of this project.
 - No QA support for mobile application developed. Only web application will be tested.
 - Automation testing is beyond scope.
@@ -52,4 +52,4 @@ Here are the link test cases [Test cases details](https://github.com/ginatcacenc
 ![foto](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/OIP.jpeg)
 
 
-Link catre fisier [Test cases for user story x](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/TES-8.pdf)
+
