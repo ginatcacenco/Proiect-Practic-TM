@@ -6,7 +6,7 @@
 ### Test title
 | Date | Version | Authors | Comments |
 | :-----: | :---: | :---: |:---: |
-| 11.03.2023 | v1.1| **Gina Tcacenco**| *Draft plan*|
+| 11.03.2023 | v1.0| **Gina Tcacenco**| *Draft plan*|
 | ***18.03.2023*** | v1.1| Ioana Popescu | ***Test results for functional testing*** |
 | 25.03.2023 | v1.2| Maria Popescu | Test results for admin functional testing |
 
@@ -20,9 +20,9 @@ application.
 The scope of the final project for ITF Manual & Automation Testing Course is to use all gained knowledge through the course and apply them in practice using a live
 application. 
     
-Application under test: <ins>https://opensource-demo.orangehrmlive.com/</ins> 
+Application under test: <https://opensource-demo.orangehrmlive.com/> 
     
-Application documentation: <ins>https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf</ins> 
+Application documentation: <https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf> 
 
 Tools: Jira, Postman, MySql
     
@@ -38,18 +38,22 @@ All features of Emergency Contacts module which were defined in software require
 - No QA support for mobile application developed. Only web application will be tested.
 - Automation testing is beyond scope.
 
-Here are the link test cases [Test cases details](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/OIP.jpeg)
-
-#### Entry criteria:
+# 2.Test process
     
-- functional specifications defined
-- roles needed for the project are allocated
-- initial project risks were detected and mitigated
+## 2.1  Test planning
+    
+The Test Plan is designed to describe all details of testing for the Emergency Contacts module from the OrangeHRM application. 
+
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing and the risks associated with the plan.
+    
+### Roles and responsibilities
+    
 
 
 
 
-![foto](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/OIP.jpeg)
+
+
 
 
 
