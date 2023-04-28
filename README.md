@@ -92,7 +92,7 @@ Product risks: validation constraints on the fields might might be too restricti
 Verify that the following elements are ready before the test execution phase: 
 * Test environment is up and running: <https://opensource-demo.orangehrmlive.com/web/index.php/auth/login> 
 * Access to the test environment is given: username Admin, pass: admin123
-* Cycle summary (*colectia de test cases din Jira) was created and the test cases were added to the cycle summary 
+* Cycle summary was created and the test cases were added to the cycle summary 
 * Postman collections were created 
     
 ## 2.5 Test execution
@@ -125,9 +125,7 @@ Generate periodic reports to check the project status: status for the test cases
     
 ## 3.8  Test completion report
     
-## 3.9  Schedule
-A test schedule includes the testing steps or tasks, the target start and end dates and responsibilities. It should also describe how the tests will be reviewed,
-tracked and approved. 
+ 
 
 
 
