@@ -114,6 +114,7 @@ Generate periodic reports to check the project status: status for the test cases
 ## 3.2  Test conditions
     
 ## 3.3  Test cases
+The test cases with steps can be viewed here: [Dependents_test_cases.pdf]
     
 ## 3.4  Daily test summary report 
     
