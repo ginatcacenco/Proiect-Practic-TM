@@ -112,6 +112,13 @@ Generate periodic reports to check the project status: status for the test cases
 ## 3.1  Test plan
     
 ## 3.2  Test conditions
+The testing process will be executed based on the above requirements for the Emergency Contacts module. The following test conditions were found:
+ * Enter data only for mandatory fields and check that the emergency contact is created/updated
+ * Enter data for all available fields and check that the emergency contact is created/updated
+ * Leave mandatory fields empty and check that the emergency contact cannot be created/updated
+ * View all emergency contacts in a list
+ * Check that it is possible to attach files  
+ * Check all validation constraints for the fields 
     
 ## 3.3  Test cases
 The test cases with steps can be viewed here: [Emergency contacts test cases.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20cases_steps.pdf)  
