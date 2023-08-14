@@ -7,8 +7,8 @@
 | Date | Version | Authors | Comments |
 | :-----: | :---: | :---: |:---: |
 | 11.03.2023 | v1.0| **Gina Tcacenco**| *Draft plan*|
-| ***18.03.2023*** | v1.1| Ioana Popescu | ***Test results for functional testing*** |
-| 25.03.2023 | v1.2| Maria Popescu | Test results for admin functional testing |
+| ***18.03.2023*** | v1.1| Ioana Marinescu | ***Test results for functional testing*** |
+| 25.03.2023 | v1.2| Marian Dumitrache | Test results for admin functional testing |
 
 # 1. Introduction
     
@@ -24,7 +24,7 @@ Application under test: <https://opensource-demo.orangehrmlive.com/>
     
 Application documentation: <https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf> 
 
-Tools: Jira, Zephyr Squad, Postman, MySql Workbench
+Tools: Jira, Zephyr Squad.
     
 ## 1.2 Functionalities in scope
     
@@ -85,7 +85,6 @@ Product risks: validation constraints on the fields might might be too restricti
 ## 2.3 Test design
 * Functional test cases will be created in Zephyr Squad 
 * GUI test cases will be created in Zephyr Squad
-* API test cases will be created in Postman 
 * The test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
     
 ## 2.4 Test implementation
@@ -93,12 +92,11 @@ Verify that the following elements are ready before the test execution phase:
 * Test environment is up and running: <https://opensource-demo.orangehrmlive.com/web/index.php/auth/login> 
 * Access to the test environment is given: username Admin, pass: admin123
 * Cycle summary was created and the test cases were added to the cycle summary 
-* Postman collections were created 
+
     
 ## 2.5 Test execution
 * Test cases are executed on the created Cycle summary 
 * Bugs were created based on the failed test cases. 
-* API test cases were executed 
 * Full regression pack was executed 
     
 ## 2.6 Test completion (test closure)
