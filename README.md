@@ -127,7 +127,7 @@ The test cases with steps can be viewed here: [Emergency contacts test cases.pdf
 ## 3.4  Daily test summary report 
     
 ## 3.5  Traceability matrix 
-The traceability matrix was generated using Zephyr Squad and is detailed below:
+The traceability matrix was generated using Zephyr Squad and is detailed below or it can be downloaded from here:
 
 
 ![Traceability matrix](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/traceability%20matrix.png)
