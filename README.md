@@ -125,6 +125,7 @@ The testing process will be executed based on the above requirements for the Eme
 The test cases with steps can be viewed here: [Emergency contacts test cases.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20cases.pdf)
     
 ## 3.4  Daily test summary report 
+![Test summary report](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/daily%20progress.png)
     
 ## 3.5  Traceability matrix 
 The traceability matrix was generated using Zephyr Squad and is detailed below or it can be downloaded from [here](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/traceability%20matrix.xlsx):
