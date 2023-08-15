@@ -125,6 +125,7 @@ The testing process will be executed based on the above requirements for the Eme
 The test cases with steps can be viewed here: [Emergency contacts test cases.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20cases.pdf)
     
 ## 3.3  Daily test summary report 
+
 ![Test summary report](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/daily%20progress.png)
     
 ## 3.4  Traceability matrix 
