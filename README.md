@@ -144,6 +144,8 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 * A number of 31 test cases were planned for execution and all of them were executed.
 * A number of 4 total bugs were found, from which the priority is: 1 is highest, 1 is medium and 2 are low.
 
+(https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/Execution%20report.png)
+
     
  
 
