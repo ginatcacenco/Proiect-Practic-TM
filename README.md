@@ -122,7 +122,7 @@ The testing process will be executed based on the above requirements for the Eme
  * Check all validation constraints for the fields 
     
 ## 3.3  Test cases
-The test cases with steps can be viewed here: [Emergency contacts test cases.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20cases%20steps.pdf)  
+The test cases with steps can be viewed here: [Emergency contacts test cases.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20cases.pdf)
     
 ## 3.4  Daily test summary report 
     
