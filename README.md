@@ -106,6 +106,7 @@ As the exit criteria were met and satisfied as mentioned in the 2.1 section, thi
     
 ## 2.7 Test monitoring and control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
+![Tests monitoring](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/daily%20progress.png)
 
 
 # 3.Test deliverables
