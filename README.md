@@ -109,10 +109,8 @@ Various periodic reports were generated to reflect the current status of the tes
 
 
 # 3.Test deliverables
-    
-## 3.1  Test plan
-    
-## 3.2  Test conditions
+       
+## 3.1  Test conditions
 The testing process will be executed based on the above requirements for the Emergency Contacts module. The following test conditions were found:
  * Enter data only for mandatory fields and check that the emergency contact is created/updated
  * Enter data for all available fields and check that the emergency contact is created/updated
@@ -121,25 +119,25 @@ The testing process will be executed based on the above requirements for the Eme
  * Check that it is possible to attach files  
  * Check all validation constraints for the fields 
     
-## 3.3  Test cases
+## 3.2  Test cases
 The test cases with steps can be viewed here: [Emergency contacts test cases.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20cases.pdf)
     
-## 3.4  Daily test summary report 
+## 3.3  Daily test summary report 
 ![Test summary report](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/daily%20progress.png)
     
-## 3.5  Traceability matrix 
+## 3.4  Traceability matrix 
 The traceability matrix was generated using Zephyr Squad and is detailed below or it can be downloaded from [here](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/traceability%20matrix.xlsx):
 
 
 ![Traceability matrix](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/traceability%20matrix.png)
     
-## 3.6  Test case results
+## 3.5  Test case results
 The test cases with steps can be viewed here: [Test case results](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20case%20results.pdf)
     
-## 3.7  Bugs report
+## 3.6  Bugs report
 Bugs have been created based on the failed tests. The complete bug reports can be found here:  [Emergency contacts bugs.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/bugs.pdf)
     
-## 3.8  Test completion report
+## 3.7  Test completion report
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
 * Test execution chart was generated, the final report shows that a number 4 tests have failed of a total of 31.
 * A number of 31 test cases were planned for execution and all of them were executed.
