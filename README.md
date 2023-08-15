@@ -70,12 +70,15 @@ The plan identifies the items to be tested, the features to be tested, the types
     
 ### 2.1.4 Risks
 Project risks: 
-* lack of experience of the QA team 
-* only one QA in the QA team 
+* lack of experience of the QA team which can cause failure to meet the deadlines and inability to fix all bugs
+* only one QA Engineer in the QA team 
 * unavailability of the test environment 
-* short deadline of Zephyr Squad and Jira tools 
+* short trial period of Zephyr Squad and Jira tools which can cause short deadline and/or pressure on the team and inability to fix all bugs
     
-Product risks: validation constraints on the fields might might be too restrictive to the end user 
+Product risks: 
+* the app doesn't work constantly
+* the product does not meet the customer's expectations
+* the product does not meet the requirements
     
 ## 2.2 Test analysis 
 
