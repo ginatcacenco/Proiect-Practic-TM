@@ -105,7 +105,8 @@ Verify that the following elements are ready before the test execution phase:
 As the exit criteria were met and satisfied as mentioned in the 2.1 section, this feature is suggested to go live by the QA team. 
     
 ## 2.7 Test monitoring and control
-Generate periodic reports to check the project status: status for the test cases executed, status for the converge of the business requirements, etc. 
+Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
+
 
 # 3.Test deliverables
     
