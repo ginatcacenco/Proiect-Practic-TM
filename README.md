@@ -131,6 +131,7 @@ The test cases with steps can be viewed here: [Emergency contacts test cases.pdf
 ## 3.6  Test case results
     
 ## 3.7  Bugs report
+Bugs have been created based on the failed tests. The complete bug reports can be found here:[Emergency contacts bugg.pdf]
     
 ## 3.8  Test completion report
     
