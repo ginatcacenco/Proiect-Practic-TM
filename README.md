@@ -6,9 +6,9 @@
 ### Test title
 | Date | Version | Authors | Comments |
 | :-----: | :---: | :---: |:---: |
-| 11.03.2023 | v1.0| **Gina Tcacenco**| *Draft plan*|
-| ***18.03.2023*** | v1.1| Ioana Marinescu | ***Test results for functional testing*** |
-| 25.03.2023 | v1.2| Marian Dumitrache | Test results for admin functional testing |
+| 11.03.2023 | v1.0| Ioana Marinescu| *Draft plan*|
+| ***22.08.2023*** | v1.0| **Gina Tcacenco** | ***Test results for functional testing*** |
+| 22.08.2023 | v1.0| Marian Dumitrache | Test results for GUl testing |
 
 # 1. Introduction
     
@@ -139,10 +139,10 @@ The test cases with steps can be viewed here: [Test case results](https://github
 Bugs have been created based on the failed tests. The complete bug reports can be found here:  [Emergency contacts bugs.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/bugs.pdf)
     
 ## 3.8  Test completion report
-As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
-Test execution chart was generated, the final report shows that a number 4 tests have failed of a total of 31.
-A number of 31 test cases were planned for execution and all of them were executed.
-A number of 4 total bugs were found, from which the priority is: 1 is highest, 1 is medium and 2 are low.
+* As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
+* Test execution chart was generated, the final report shows that a number 4 tests have failed of a total of 31.
+* A number of 31 test cases were planned for execution and all of them were executed.
+* A number of 4 total bugs were found, from which the priority is: 1 is highest, 1 is medium and 2 are low.
 
     
  
