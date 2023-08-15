@@ -7,8 +7,8 @@
 | Date | Version | Authors | Comments |
 | :-----: | :---: | :---: |:---: |
 | 11.03.2023 | v1.0| Ioana Marinescu| *Draft plan*|
-| ***22.08.2023*** | v1.0| **Gina Tcacenco** | ***Test results for functional testing*** |
-| 22.08.2023 | v1.0| Marian Dumitrache | Test results for GUl testing |
+| ***22.07.2023*** | v1.0| **Gina Tcacenco** | ***Test results for functional testing*** |
+| 22.07.2023 | v1.0| Marian Dumitrache | Test results for GUl testing |
 
 # 1. Introduction
     
@@ -17,8 +17,7 @@ application.
 
 ## 1.1 Project objective
     
-The scope of the final project for ITF Manual & Automation Testing Course is to use all gained knowledge through the course and apply them in practice using a live
-application. 
+The scope of the final project for ITF Manual & Automation Testing Course is to use all gained knowledge through the course and apply them in practice using a live application. 
     
 Application under test: <https://opensource-demo.orangehrmlive.com/> 
     
@@ -28,7 +27,7 @@ Tools: Jira, Zephyr Squad.
     
 ## 1.2 Functionalities in scope
     
-All features of Emergency Contacts module which were defined in software requirement specs need to be: functional testing, GUI testing, API testing.  
+All features of Emergency Contacts module which were defined in software requirement specifications need to be: functional testing, GUI testing.  
    
 
 ## 1.3 Functionalities and tests out of scope
