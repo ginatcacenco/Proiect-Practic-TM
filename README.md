@@ -129,7 +129,7 @@ The test cases with steps can be viewed here: [Emergency contacts test cases.pdf
 ## 3.5  Traceability matrix
     
 ## 3.6  Test case results
-The test cases with steps can be viewed here:  [Test case results](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20case%20results.pdf)
+The test cases with steps can be viewed here: [Test case results](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/test%20case%20results.pdf)
     
 ## 3.7  Bugs report
 Bugs have been created based on the failed tests. The complete bug reports can be found here:  [Emergency contacts bugs.pdf](https://github.com/ginatcacenco/Proiect-Practic-TM/blob/main/bugs.pdf)
